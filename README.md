@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Kamal</h1>
+<h1 align="center">Hi 👋, I'm Abdullah Abdelhamid</h1>
 <h3 align="center">Front End developer🌟.</h3>
 
 
@@ -10,23 +10,23 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **mohaamedkamal0@gmail.com**
+- 📫 How to reach me **abdullahabdelhamid9@gmail.com**
 
 
 <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a  href="www.linkedin.com/in/mohamed-ahmed-kamal" target="blank"><img align="center"
+  <a  href="https://www.linkedin.com/in/abdullah-abdelhamid?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" target="_blank" /></a>
-  <a  href="https://www.facebook.com/profile.php?id=100006031399403" target="blank"><img align="center"
+  <a  href="https://www.facebook.com/abdullah.motawe?mibextid=LQQJ4d" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="adam pithen wala" height="30" width="40" target="_blank" /></a>
-  <a  href="https://instagram.com/mo7amedkamal74?igshid=OGY3MTU3OGY1Mw== " target="blank"><img align="center"
+  <a  href="https://www.instagram.com/abdullah.3bdo/?hl=ar " target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" target="blank" /></a>
- <a  href="https://twitter.com/Mohamed83173083" target="blank"><img align="center"
+ <a  href="#" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" target="_blank" /></a>
 </p>
